@@ -1,4 +1,7 @@
-# Machine_Learning
+# Mahine_Learning
+
+This repository contains Python implementations of fundamental machine learning algorithms: Linear Regression, Logistic Regression, and Binary Classification. These algorithms serve as building blocks for more complex machine learning models and are essential to understand for anyone diving into the field of data science and machine learning.
+
 # Linear Regression with Random Numbers:
 Python implementation of linear regression using random numbers. The code generates random input data, performs linear regression, and plots the true values along with the predicted values on a linear line.
 
